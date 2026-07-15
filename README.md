@@ -4,8 +4,6 @@ Dog Breed classifier project of the Data Scientist Nanodegree by Udacity. A Web 
 
 Medium Article Published in Towards Data Science- https://towardsdatascience.com/dog-breed-classification-using-flask-ef99259d38c
 
-Youtube Link- https://youtu.be/75IItFl8WHU
-
 ### Home Page
 
 ![Screenshot from 2020-05-18 13-58-50](https://user-images.githubusercontent.com/34116562/82191705-8d74f400-9910-11ea-8404-5026fb1585fe.png)
